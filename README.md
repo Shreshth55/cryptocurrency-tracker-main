@@ -34,5 +34,5 @@ In case of any comments or advice, You can e-mail me or use Issues :)
 
 ## 🧙‍♂️ Author
 - GitHub - [Shreshth Sudhir](https://github.com/Shreshth55)
-- LinkedIn - [Shreshth Sudhir]([https://www.linkedin.com/in/marcin-suski/](https://www.linkedin.com/in/shreshth-sudhir-330377237/))
+- LinkedIn - [Shreshth Sudhir](https://www.linkedin.com/in/shreshth-sudhir-330377237/)
 - Porftolio - [Shreshth Sudhir](https://marcinsuski.pl)
