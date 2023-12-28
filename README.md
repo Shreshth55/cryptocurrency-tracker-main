@@ -29,15 +29,10 @@ Click the link and check the app: [Link](https://ms-crypto-coin-tracker.netlify.
 ![](./src/images/screenshot2.JPG)
 
 
-## 💾 Installation
-git clone https://github.com/marcinsuski/cryptocurrency-tracker.git
-npm install
-npm start
-
 ## ☎️ Contact
 In case of any comments or advice, You can e-mail me or use Issues :)
 
 ## 🧙‍♂️ Author
-- GitHub - [Marcin Suski](https://github.com/marcinsuski)
-- LinkedIn - [marcin-suski](https://www.linkedin.com/in/marcin-suski/)
-- Porftolio - [marcinsuski.pl](https://marcinsuski.pl)
+- GitHub - [Shreshth Sudhir](https://github.com/marcinsuski)
+- LinkedIn - [Shreshth Sudhir](https://www.linkedin.com/in/marcin-suski/)
+- Porftolio - [Shreshth Sudhir](https://marcinsuski.pl)
