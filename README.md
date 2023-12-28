@@ -28,10 +28,6 @@ Click the link and check the app: [Link](https://ms-crypto-coin-tracker.netlify.
 ![](./src/images/screenshot.JPG)
 ![](./src/images/screenshot2.JPG)
 
-
-## ☎️ Contact
-In case of any comments or advice, You can e-mail me or use Issues :)
-
 ## 🧙‍♂️ Author
 - GitHub - [Shreshth Sudhir](https://github.com/Shreshth55)
 - LinkedIn - [Shreshth Sudhir](https://www.linkedin.com/in/shreshth-sudhir-330377237/)
