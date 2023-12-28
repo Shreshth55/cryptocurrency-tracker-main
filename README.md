@@ -31,4 +31,3 @@ Click the link and check the app: [Link](https://ms-crypto-coin-tracker.netlify.
 ## 🧙‍♂️ Author
 - GitHub - [Shreshth Sudhir](https://github.com/Shreshth55)
 - LinkedIn - [Shreshth Sudhir](https://www.linkedin.com/in/shreshth-sudhir-330377237/)
-- Porftolio - [Shreshth Sudhir](https://marcinsuski.pl)
